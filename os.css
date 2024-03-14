@@ -1,0 +1,81 @@
+body{
+    background-color:black;
+}
+*{
+    align-items: center;
+    text-align: center;
+    font-family: monospace;
+    color: blue;
+}
+.voltar{
+    height: 30px;
+    margin-left: 90%;
+}
+.logo{
+    align-items: center;
+    position: center;
+    height: 200px;
+}
+label{
+    font-size: large;
+}
+.nmr{
+    width: 700px;
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+    border: 0px;
+    scrollbar-color: black;
+}
+.cliente{
+    width: 700px;
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+    border: 0px;
+}
+.endereço{
+    width: 700px;
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+    border: 0px;
+}
+.serviço{
+    height: 300px;
+    width: 500px;
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+    border: 0px;
+}
+.equip{
+    height: 300px;
+    width: 700px;
+    color: white;
+    background-color: black;
+    font-size: xx-large;
+    border: 0px;  
+}
+button{
+    color: white;
+    height: 30px;
+    width: 80px;
+}
+.botao{
+    font-size: x-large;
+    color: black;
+}
+.imagem{
+    position: relative;
+    height: 25px;
+    margin: 20px;
+}
+.referencia{
+    position: relative;
+    height: 45px;
+}
+.nome{
+    position: relative;
+    color: gray;
+}
