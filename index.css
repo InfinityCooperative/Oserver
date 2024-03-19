@@ -1,5 +1,5 @@
 body{
-    background-color:black;
+    background-color: rgb(218, 241, 236);
 }
 *{
     align-items: center;
@@ -11,9 +11,17 @@ body{
     height: 30px;
     margin-left: 90%;
 }
+.cabecalho{
+    background-color:black;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    border-radius: 5px;
+    height: auto;
+}
 .logo{
-    align-items: center;
-    position: center;
+    margin-top: 0px;
+    position: relative;
     height: 200px;
 }
 label{
@@ -66,14 +74,22 @@ button{
     font-size: x-large;
     color: black;
 }
+.rodape{
+    background-color:black;
+    border-radius: 5px;
+    border-width: 0.7px;
+    border-style: solid;
+    border-color: #000;
+    height: auto;
+}
 .imagem{
     position: relative;
-    height: 25px;
+    height: 40px;
     margin: 20px;
 }
 .referencia{
     position: relative;
-    height: 45px;
+    height: 25px;
 }
 .nome{
     position: relative;
