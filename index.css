@@ -91,10 +91,6 @@ button{
     position: relative;
     height: 25px;
 }
-.nome{
-    position: relative;
-    color: gray;
-}
 .cooperacao1{
     position: relative;
     margin: 10px;
@@ -109,4 +105,8 @@ button{
     position: relative;
     margin: 10px;
     color: black;
+}
+.nome{
+    font-size: smaller;
+    color: white;
 }
