@@ -87,10 +87,6 @@ button{
     height: 40px;
     margin: 20px;
 }
-.referencia{
-    position: relative;
-    height: 25px;
-}
 .cooperacao1{
     position: relative;
     margin: 10px;
@@ -106,7 +102,11 @@ button{
     margin: 10px;
     color: black;
 }
-.nome{
-    font-size: smaller;
-    color: white;
+.slogan{
+    position: relative;
+    height: 65px;
+}
+.referencia{
+    position: relative;
+    height: 25px;
 }
