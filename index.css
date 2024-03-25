@@ -93,6 +93,10 @@ button{
     height: 40px;
     margin: 20px;
 }
+.mensagem{
+    height: 100px;
+    width: 190px;
+}
 .cooperacao1{
     position: relative;
     margin: 10px;
