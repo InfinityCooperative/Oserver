@@ -67,7 +67,7 @@ label{
     font-size: xx-large;
     border: 0px;  
 }
-button{
+.botao{
     color: white;
     height: 30px;
     width: 80px;
